@@ -2,10 +2,10 @@
 #define MAX 1000
 void main()
 {
-    int N[MAX],K[MAX],n,min;
+    int N[MAX],K[MAX],a,min;
     int i,j;
     printf("ENTER THE ARRAY SIZE");
-    scanf("%d",&n);
+    scanf("%d",&a);
     printf("ENTER VALUE OF N");
     for(i=0;i<n;i++)
     {
